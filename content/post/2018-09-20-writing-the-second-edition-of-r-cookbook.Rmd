@@ -1,0 +1,10 @@
+---
+title: Writing the Second Edition of R Cookbook
+author: JD Long
+date: '2018-09-20'
+slug: writing-the-second-edition-of-r-cookbook
+categories:
+  - R
+  - R-Cookbook
+tags: []
+---
